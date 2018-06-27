@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Class-Path: 
+Require-Bundle: 
+	jdbc:
+		org.framework.common.jar,
+		dom4j-2.0.0-ALPHA-2.jar
+		
+	
+	spring:
+	    org.framework.common.jar,
+		org.springframework.beans-3.1.2.RELEASE.jar,
+		org.springframework.context-3.1.2.RELEASE.jar,
+		org.springframework.core-3.1.2.RELEASE.jar,
+		org.springframework.jdbc-3.1.2.RELEASE.jar,
+		org.springframework.transaction-3.1.2.RELEASE.jar
+		
+Main-Class: 
+
